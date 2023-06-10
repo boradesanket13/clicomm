@@ -1,0 +1,9 @@
+{
+    "modal": {
+        "auth": {
+            "signup": "signup",
+            "login": "login",
+            "verifyEmail": "verifyEmail"
+        }
+    }
+}

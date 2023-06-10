@@ -1,0 +1,11 @@
+{
+    "user": {
+        "verification": {
+            "email": {
+                "otp": {
+                    "digitCount": 6
+                }
+            }
+        }
+    }
+}
